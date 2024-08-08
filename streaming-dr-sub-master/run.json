@@ -1,0 +1,604 @@
+{
+    "settings": [
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "movie-100k",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "film",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "nips",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "nips",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "nips",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "nips",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "alg2",
+            "dataset": "nips",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "movie-100k",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "film",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "nips",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "nips",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "nips",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "nips",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "alg4",
+            "dataset": "nips",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "movie-100k",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "film",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "nips",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "nips",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "nips",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "nips",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "soma",
+            "dataset": "nips",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 20,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 40,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 60,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 80,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 100,
+            "b": 3
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "movie-100k",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "film",
+            "k": 200,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "nips",
+            "k": 120,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "nips",
+            "k": 140,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "nips",
+            "k": 160,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "nips",
+            "k": 180,
+            "b": 5
+        },
+        {
+            "alg": "sieve",
+            "dataset": "nips",
+            "k": 200,
+            "b": 5
+        }
+    ]
+}

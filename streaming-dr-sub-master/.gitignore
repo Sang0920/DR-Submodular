@@ -1,0 +1,6 @@
+log*
+log/*
+output*
+output/*
+*ipynb*
+_*

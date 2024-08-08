@@ -1,0 +1,72 @@
+{
+    "wiki": {
+        "dir": "data/out.wikilens-ratings",
+        "delimiter": "\t",
+        "output": "wikilens.csv",
+        "max_weight": 5.0,
+        "reverse_st": false
+    },
+    "movie-100k": {
+        "dir": "data/out.movielens-100k",
+        "delimiter": " ",
+        "output": "movielens-100k.csv",
+        "max_weight": 5.0,
+        "reverse_st": false
+    },
+    "movie-1m": {
+        "dir": "data/out.movielens-1m",
+        "delimiter": " ",
+        "output": "movielens-1m.csv",
+        "max_weight": 5.0,
+        "reverse_st": true
+    },
+    "enron": {
+        "dir": "data/out.bag-enron",
+        "delimiter": "\t",
+        "output": "bag_enron.csv",
+        "max_weight": 403.0,
+        "reverse_st": false
+    },
+    "reuters": {
+        "dir": "data/out.gottron-reuters",
+        "delimiter": "\t",
+        "output": "reuters.csv",
+        "max_weight": 245.0,
+        "reverse_st": false
+    },
+    "nips": {
+        "dir": "data/out.bag-nips",
+        "delimiter": "\t",
+        "output": "nips.csv",
+        "max_weight": 132.0,
+        "reverse_st": false
+    },
+    "film": {
+        "dir": "data/out.librec-filmtrust-ratings",
+        "delimiter": "\t",
+        "output": "filmtrust.csv",
+        "max_weight": 4.0,
+        "reverse_st": false
+    },
+    "email":{ 
+        "dir": "data/email.greedy.35.bipartite.out",
+        "delimiter": " ",
+        "output": "email.csv",
+        "max_weight": 1,
+        "reverse_st": false
+    },
+    "fb":{
+        "dir": "data/fb.louvain.16.bipartite.out",
+        "delimiter":" ",
+        "output": "fb.csv",
+        "max_weight": 1,
+        "reverse_st": false
+    },
+    "twitter":{
+        "dir": "data/twitter.greedy.244.bipartite.out",
+        "delimiter":" ",
+        "output": "twitter.csv",
+        "max_weight": 1,
+        "reverse_st": false
+    }
+}

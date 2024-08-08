@@ -1,0 +1,11 @@
+name:  Enron words
+code:  EN
+url:   http://archive.ics.uci.edu/ml/datasets/Bag+of+Words
+category:  Text
+long-description:   This is the bipartite document–word dataset of Enron words.  Left nodes are documents and right nodes are words.  Edge weights are multiplicities.
+cite:  konect:bag
+description:  Document–word occurences
+entity-names:  document, word
+relationship-names:  occurrence
+extr:  bag
+tags:
